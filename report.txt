@@ -1,0 +1,14 @@
+Sales Prediction Report
+=======================
+
+MSE: 3.1741
+RMSE: 1.7816
+R2 Score: 0.8994
+
+Feature Coefficients:
+     Feature  Coefficient
+0         TV     3.830606
+1      Radio     2.801912
+2  Newspaper     0.059983
+
+Key Insight: The most influential factor is TV with a coefficient of 3.8306.
